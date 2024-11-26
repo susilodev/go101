@@ -40,6 +40,7 @@ func main() {
 
 	fmt.Println("Welcome to the Salaf Bank")
 	fmt.Println("What do you want ?")
+
 	var choice int
 
 	for {
